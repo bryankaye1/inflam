@@ -1,4 +1,4 @@
-
+'''This function outputs the file name'''
 def assign_drug(dataname): 
     number = dataname[13:-4]
     result = 'Nope'
